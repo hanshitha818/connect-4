@@ -1,12 +1,12 @@
-##Overview
+# Overview
 
 A fun, interactive Connect 4 game implemented in Python, where a human player competes against an intelligent AI agent. The AI uses Minimax with Alpha–Beta pruning to choose strong moves efficiently under limited computation.
 
-##Problem
+## Problem
 
 Connect 4 is a competitive, turn-based game that requires strategic planning. Building an AI agent for this game is a great way to study adversarial search, depth-limited decision-making, and how increasing lookahead improves gameplay strategy.
 
-##Solution
+## Solution
 
 This project implements a Connect 4 AI that:
 
@@ -18,7 +18,7 @@ Allows testing different search depths (1–5) to observe performance changes
 
 Provides a graphical interface to visualize gameplay and AI decisions
 
-##Key Features
+## Key Features
 
 Human vs AI gameplay
 
@@ -30,7 +30,7 @@ Graphical interface using Pygame
 
 Demonstrates the trade-off between decision quality and computation cost
 
-##Technologies Used
+## Technologies Used
 
 Python
 
@@ -52,7 +52,7 @@ Observed improved strategic capability and winning consistency with deeper searc
 
 Highlighted increasing computation cost with higher depth
 
-##▶️ How to Run the Project
+## How to run the project
 1) Clone the repository
 git clone https://github.com/hanshitha818/connect-4.git
 cd connect-4
