@@ -42,7 +42,7 @@ Minimax
 
 Alpha–Beta Pruning
 
-Experimental Summary
+## Experimental Summary
 
 Conducted 35 gameplay experiments across search depths 1 to 5
 
