@@ -66,10 +66,10 @@ pip install --upgrade pip
 pip install -r requirements.txt
 
 4) Run the game
-python P2_hmahanka.py
+python Connect-4.py
 
 
-If your file name is different, replace P2_hmahanka.py with your actual Python file name.
+If your file name is different, replace Connect-4.py with your actual Python file name.
 
 requirements.txt
 
