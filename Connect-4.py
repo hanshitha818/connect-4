@@ -296,4 +296,5 @@ def display_game_stats(winner, moves, start_time):
 
 
 if __name__ == "__main__":
+
     main()
