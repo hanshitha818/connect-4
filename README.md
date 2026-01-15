@@ -86,3 +86,9 @@ ModuleNotFoundError: No module named '_tkinter'
 install Tk support:
 
 brew install python-tk@3.11
+## 📄 Research Paper
+
+This project is accompanied by a short research paper that analyzes the AI’s performance using Minimax and Alpha–Beta pruning across different search depths.
+
+📎 **Paper:** `Connect-4_Research_Paper.pdf`
+
