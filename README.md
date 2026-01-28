@@ -90,5 +90,5 @@ brew install python-tk@3.11
 
 This project is accompanied by a short research paper that analyzes the AI’s performance using Minimax and Alpha–Beta pruning across different search depths.
 
-📎 **Paper:** `Connect-4_Research_Paper.pdf`
+📎 **Paper:** `[Connect-4_Research_Paper.pdf](https://github.com/hanshitha818/connect-4/blob/main/Connect-4_Research%20Paper.pdf)`
 
